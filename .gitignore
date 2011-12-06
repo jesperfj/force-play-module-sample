@@ -1,0 +1,9 @@
+.classpath
+.settings
+.project
+eclipse
+test
+lib
+modules
+.env
+tmp

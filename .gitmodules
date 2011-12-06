@@ -1,0 +1,3 @@
+[submodule "force"]
+	path = force
+	url = git@github.com:jesperfj/force-play-module.git

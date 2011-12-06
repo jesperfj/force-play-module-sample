@@ -1,0 +1,12 @@
+# Application dependencies
+
+require:
+    - play
+    - force -> force
+    
+repositories:
+    - My modules:
+        type:       local
+        artifact:   ${application.path}/[module]
+        contains:
+            - force
